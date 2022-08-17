@@ -20,7 +20,7 @@ Project developed on the web course www.alura.com.br
 
 2. Access through the Vercel link: https://project-skate-hcz.vercel.app/
 
-## Gif do projeto:
+## GIF from the project:
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/47367373/185201197-241d93dc-b1cf-462d-b299-1b835f5a2ffa.gif" alt="Skate HCZ"/>
 </p>
