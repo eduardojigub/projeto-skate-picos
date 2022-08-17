@@ -34,12 +34,20 @@ body {
 }
 
 .menu-lateral {
+    position: absolute;
+    left: -100vw;
     display: flex;
     flex-direction: column;
-    background-color: #15191C;
     width: 75vw;
     height: 100vh;
-   
+    background-color: #15191C;
+    transition: left .25s;
+    z-index: 99;
+}
+
+.menu-lateral--ativo {
+    left: 0;
+    transition: left .25s;
 }
 
 .menu-lateral__logo {
