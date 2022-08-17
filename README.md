@@ -7,7 +7,7 @@ Project developed on the web course www.alura.com.br
 - Use semantic HTML to make your page more accessible and better ranked.
 - Use CSS to add some style and to position elements in the screen. 
 - Use Media Query to make page responsive.
-- Use Mobile First 
+- Mobile First 
 
 
 ## What was developed
