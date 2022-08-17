@@ -16,7 +16,7 @@ Project developed on the web course www.alura.com.br
 
 ## Instructions for viewing the project:
 
-1. Open the index.html file with a browser or;
+1. Download all files and open the index.html file with a browser or;
 
 2. Access through the GitPages link: 
 
