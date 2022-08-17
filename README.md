@@ -18,7 +18,7 @@ Project developed on the web course www.alura.com.br
 
 1. Download all files and open the index.html file with a browser or;
 
-2. Access through the GitPages link: 
+2. Access through the Vercel link: https://project-skate-hcz.vercel.app/
 
 ## Gif do projeto:
 <p align="center">
