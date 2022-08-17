@@ -1,7 +1,7 @@
 # Projeto Skate HCZ
 Project developed on the web course www.alura.com.br
 
-## Habilidades
+## Skills
 
 - Use HTML to build WEB pages.
 - Use semantic HTML to make your page more accessible and better ranked.
